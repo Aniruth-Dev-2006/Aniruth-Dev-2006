@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aniruth!+%F0%9F%91%8B;Agentic+AI+Engineer;Full-Stack+Developer;C%2B%2B+%26+DSA+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0db9d7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aniruth!+%F0%9F%91%8B;Agentic+AI+Engineer;Full-Stack+Developer;C%2B%2B+%26+DSA+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,47 +17,27 @@
 ## 📈 Analytics & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniruth-Dev-2006&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=adbac7&icon_color=1F6FEB" alt="GitHub Stats" width="48%" />
-  <img src="https://leetcard.jacoblin.cool/Aniruth_Pvt?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruth-Dev-2006&bg_color=00000000&color=1F6FEB&line=1F6FEB&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aniruth-Dev-2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://leetcard.jacoblin.cool/Aniruth_Pvt?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruth-Dev-2006&bg_color=1a1b26&color=0db9d7&line=bb9af7&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,js,c,cpp,mysql,mongodb&theme=dark" />
-</a>
-
-<br/>
-
-**AI / LLM Engineering**<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn&theme=dark" />
-</a>
-<br/>
-*(Including: Prompt Engineering, RAG, Multi-Agent Systems, LangChain, LangGraph, Hugging Face, Gemini API, ComfyUI)*
-
-<br/>
-
-**Frontend & Backend Development**<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,html,css,threejs&theme=dark" />
-</a>
-<br/>
-*(Including: JWT Auth, OAuth, REST APIs, Chart.js, Responsive UI)*
-
-<br/>
-
-**DevOps, Cloud & Automation**<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,kubernetes&theme=dark" />
-</a>
-<br/>
-*(Including: n8n, Multi-Agent Orchestration)*
+<div align="center">
+  <img src="./assets/tech-carousel.svg" alt="Tech Stack Carousel" width="800" />
+</div>
 
 <br/>
 
