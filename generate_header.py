@@ -1,0 +1,68 @@
+import urllib.request
+import base64
+
+svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2b0000" />
+      <stop offset="100%" stop-color="#8b0000" />
+    </linearGradient>
+
+    <!-- Typing Clip Path -->
+    <clipPath id="typingClip">
+      <rect x="0" y="0" width="0" height="200">
+        <animate attributeName="width" values="0; 800; 800" keyTimes="0; 0.5; 1" dur="6s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+
+    <!-- Blink Animation for Cursor -->
+    <style>
+      .cursor {
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+      .title {
+        font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 38px;
+        font-weight: 800;
+        fill: #ffffff;
+      }
+      .subtitle {
+        font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 500;
+        fill: #cccccc;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)" rx="10" />
+
+  <!-- Animated Waves (Live Moments) -->
+  <g fill="#ff4d4d" opacity="0.3">
+    <path d="M0,130 C200,80 400,180 800,130 L800,180 L0,180 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -50 0; 0 0" dur="4s" repeatCount="indefinite" />
+    </path>
+    <path d="M0,150 C300,180 500,100 800,150 L800,180 L0,180 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 50 0; 0 0" dur="5s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <!-- Static Subtitle -->
+  <text x="400" y="130" text-anchor="middle" class="subtitle">Agentic AI Engineer | Full-Stack Developer</text>
+
+  <!-- Typing Text -->
+  <g clip-path="url(#typingClip)">
+    <text x="400" y="80" text-anchor="middle" class="title">Hi there, I'm Aniruth! 👋</text>
+  </g>
+  
+</svg>"""
+
+with open("assets/custom-header.svg", "w", encoding="utf-8") as f:
+    f.write(svg_content)
+
+print("Successfully generated custom-header.svg!")

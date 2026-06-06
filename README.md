@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ffffff&background=8b0000&center=true&vCenter=true&width=800&height=60&lines=Hi+there,+I'm+Aniruth!+%F0%9F%91%8B;Agentic+AI+Engineer;Full-Stack+Developer;C%2B%2B+%26+DSA+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="./assets/custom-header.svg?v=1" alt="Dynamic Typing Header" width="800" />
 </div>
 
 <br/>
