@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi%20there,%20I'm%20Aniruth!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Dynamic Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&text=Hi%20there,%20I'm%20Aniruth!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Dynamic Header" width="100%" />
 </div>
 
 ## 🚀 The Journey
 
 <div align="center">
-  <img src="./assets/chat-ui.svg" alt="Interview Chat Log" width="800" />
+  <img src="./assets/chat-ui.svg?v=2" alt="Interview Chat Log" width="800" />
 </div>
 
 <br/>
@@ -24,7 +24,7 @@
 ## ⚙️ Tech Arsenal
 
 <div align="center">
-  <img src="./assets/tech-carousel.svg" alt="Tech Stack Carousel" width="800" />
+  <img src="./assets/tech-carousel.svg?v=2" alt="Tech Stack Carousel" width="800" />
 </div>
 
 <br/>
