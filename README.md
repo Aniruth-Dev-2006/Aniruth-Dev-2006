@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0db9d7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aniruth!+%F0%9F%91%8B;Agentic+AI+Engineer;Full-Stack+Developer;C%2B%2B+%26+DSA+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=26&pause=1000&color=007acc&background=1e1e1e&center=true&vCenter=true&width=800&height=60&lines=Hi+there,+I'm+Aniruth!+%F0%9F%91%8B;Agentic+AI+Engineer;Full-Stack+Developer;C%2B%2B+%26+DSA+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,15 +20,15 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Aniruth-Dev-2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Aniruth-Dev-2006&show_icons=true&bg_color=1e1e1e&title_color=007acc&text_color=d4d4d4&icon_color=007acc&border_color=3e3e42&hide_border=false" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://leetcard.jacoblin.cool/Aniruth_Pvt?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="100%" />
+        <img src="https://leetcard.jacoblin.cool/Aniruth_Pvt?bg=1e1e1e&font=Consolas&ext=heatmap" alt="LeetCode Stats" width="100%" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruth-Dev-2006&bg_color=1a1b26&color=0db9d7&line=bb9af7&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruth-Dev-2006&bg_color=1e1e1e&color=007acc&line=007acc&point=ffffff&border_color=3e3e42&hide_border=false" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
