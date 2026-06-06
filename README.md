@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/custom-header.svg?v=1" alt="Dynamic Typing Header" width="800" />
+  <img src="./assets/custom-header.svg?v=2" alt="Dynamic Typing Header" width="800" />
 </div>
 
 <br/>

@@ -5,8 +5,8 @@ svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" w
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2b0000" />
-      <stop offset="100%" stop-color="#8b0000" />
+      <stop offset="0%" stop-color="#141E30" />
+      <stop offset="100%" stop-color="#243B55" />
     </linearGradient>
 
     <!-- Typing Clip Path -->
@@ -43,7 +43,7 @@ svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" w
   <rect width="100%" height="100%" fill="url(#bg)" rx="10" />
 
   <!-- Animated Waves (Live Moments) -->
-  <g fill="#ff4d4d" opacity="0.3">
+  <g fill="#4FACFE" opacity="0.3">
     <path d="M0,130 C200,80 400,180 800,130 L800,180 L0,180 Z">
       <animateTransform attributeName="transform" type="translate" values="0 0; -50 0; 0 0" dur="4s" repeatCount="indefinite" />
     </path>
