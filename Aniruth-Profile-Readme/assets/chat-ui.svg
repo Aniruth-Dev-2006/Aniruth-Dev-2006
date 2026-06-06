@@ -1,0 +1,116 @@
+<svg fill="none" viewBox="0 0 800 700" width="800" height="700" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          font-size: 15px;
+          line-height: 1.5;
+          padding: 20px;
+          color: #adbac7;
+          background: transparent;
+          box-sizing: border-box;
+          width: 100%;
+          height: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          gap: 20px;
+        }
+        .message-wrapper {
+          display: flex;
+          width: 100%;
+          animation: fadeIn 0.5s ease-out forwards;
+          opacity: 0;
+        }
+        @keyframes fadeIn {
+          from { opacity: 0; transform: translateY(10px); }
+          to { opacity: 1; transform: translateY(0); }
+        }
+        .msg-left { justify-content: flex-start; }
+        .msg-right { justify-content: flex-end; }
+        .bubble {
+          padding: 14px 18px;
+          max-width: 75%;
+          box-sizing: border-box;
+          border-radius: 20px;
+        }
+        .bubble-left {
+          background-color: #2d333b;
+          border: 1px solid #444c56;
+          border-bottom-left-radius: 4px;
+        }
+        .bubble-right {
+          background-color: #1f6feb;
+          color: #ffffff;
+          border-bottom-right-radius: 4px;
+          box-shadow: 0 4px 12px rgba(31,111,235,0.25);
+        }
+        .sender {
+          font-size: 13px;
+          font-weight: 600;
+          display: block;
+          margin-bottom: 6px;
+        }
+        .sender-left { color: #58a6ff; }
+        .sender-right { color: #c9d1d9; }
+        .delay-1 { animation-delay: 0.1s; }
+        .delay-2 { animation-delay: 0.8s; }
+        .delay-3 { animation-delay: 1.5s; }
+        .delay-4 { animation-delay: 2.2s; }
+        .delay-5 { animation-delay: 2.9s; }
+        .delay-6 { animation-delay: 3.6s; }
+      </style>
+      
+      <div class="container">
+        <!-- Recruiter 1 -->
+        <div class="message-wrapper msg-left delay-1">
+          <div class="bubble bubble-left">
+            <span class="sender sender-left">Recruiter</span>
+            Hey Aniruth! Can you tell me a bit about your background?
+          </div>
+        </div>
+
+        <!-- Aniruth 1 -->
+        <div class="message-wrapper msg-right delay-2">
+          <div class="bubble bubble-right">
+            <span class="sender sender-right">Aniruth</span>
+            Absolutely! I'm an aspiring Full-Stack Developer &amp; Agentic AI Engineer. I love turning complex logic into scalable, user-centric digital solutions. 🎓
+          </div>
+        </div>
+
+        <!-- Recruiter 2 -->
+        <div class="message-wrapper msg-left delay-3">
+          <div class="bubble bubble-left">
+            <span class="sender sender-left">Recruiter</span>
+            That's awesome. What exactly do you focus on technically?
+          </div>
+        </div>
+
+        <!-- Aniruth 2 -->
+        <div class="message-wrapper msg-right delay-4">
+          <div class="bubble bubble-right">
+            <span class="sender sender-right">Aniruth</span>
+            I'm highly focused on C++ and advanced Data Structures. I've consistently tackled 250+ LeetCode problems to sharpen my logic and problem-solving skills! 🚀
+          </div>
+        </div>
+
+        <!-- Recruiter 3 -->
+        <div class="message-wrapper msg-left delay-5">
+          <div class="bubble bubble-left">
+            <span class="sender sender-left">Recruiter</span>
+            Are you building any practical systems alongside competitive programming?
+          </div>
+        </div>
+
+        <!-- Aniruth 3 -->
+        <div class="message-wrapper msg-right delay-6">
+          <div class="bubble bubble-right">
+            <span class="sender sender-right">Aniruth</span>
+            Definitely! I engineer specialized RAG pipelines and drug-repurposing systems using n8n, LangChain, and LangGraph for multi-agent orchestration. I also build local LLM image generation workflows via ComfyUI &amp; GraphQL, and develop Machine Learning models for optimized CPU scheduling! 🤖
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
