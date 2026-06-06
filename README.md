@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Aniruth!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Dynamic Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi%20there,%20I'm%20Aniruth!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Dynamic Header" width="100%" />
 </div>
-
-<br/>
 
 ## 🚀 The Journey
 
