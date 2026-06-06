@@ -1,12 +1,10 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58a6ff&background=0d1117&center=true&vCenter=true&width=800&height=60&lines=Hi+there,+I'm+Aniruth!+%F0%9F%91%8B;Agentic+AI+Engineer;Full-Stack+Developer;C%2B%2B+%26+DSA+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Aniruth!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Dynamic Header" width="100%" />
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 🚀 The Journey
 
 <div align="center">
   <img src="./assets/chat-ui.svg" alt="Interview Chat Log" width="800" />
@@ -14,7 +12,7 @@
 
 <br/>
 
-## 📈 Analytics & Stats
+## 🔥 GitHub & LeetCode Impact
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aniruth-Dev-2006&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&border_color=30363d&hide_border=false" alt="GitHub Stats" />
@@ -25,7 +23,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Arsenal
 
 <div align="center">
   <img src="./assets/tech-carousel.svg" alt="Tech Stack Carousel" width="800" />
@@ -33,7 +31,7 @@
 
 <br/>
 
-## 📂 Projects Directory
+## 🌌 Featured Masterpieces
 
 <details>
   <summary>🟢 <b>Live Projects (3)</b></summary>
